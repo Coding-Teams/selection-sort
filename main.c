@@ -1,3 +1,6 @@
+//selection sorting
+//sicoli piersilvio uniba
+
 #include <stdio.h>
 
 int a[] = {5, 2, 3, 6, 9, 1, 7};
